@@ -1,6 +1,10 @@
-💻 Backend Developer | 🔭 Aspiring Full Stack Developer
-🐍 Python & ☕ Java enthusiast | ☁️ Azure Certified (AZ-900 & AZ-204) | ☁️ AWS Certification in progress
-💾 SQL & NoSQL databases | 🏠 IoT & Smart Homes tinkerer
+💻 Backend Developer
+🔭 Aspiring Full Stack Developer
+🐍 Python & ☕ Java enthusiast
+💾 SQL & NoSQL databases
+☁️ Azure Certified (AZ-900 & AZ-204)
+☁️ AWS Certification in progress
+🏠 IoT & Smart Homes tinkerer
 👨‍👩‍👧‍👦 Husband & Father 
 
 <!--
