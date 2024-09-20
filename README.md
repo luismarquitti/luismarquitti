@@ -1,4 +1,7 @@
-## Hi there 👋
+💻 Backend Developer | 🔭 Aspiring Full Stack Developer
+🐍 Python & ☕ Java enthusiast | ☁️ Azure Certified (AZ-900 & AZ-204) | ☁️ AWS Certification in progress
+💾 SQL & NoSQL databases | 🏠 IoT & Smart Homes tinkerer
+👨‍👩‍👧‍👦 Husband & Father 
 
 <!--
 **luismarquitti/luismarquitti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
